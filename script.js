@@ -1,5 +1,4 @@
 // Image Gallery
-// Add your own photos to an "images" folder and update the src values below.
 
 const images = [
   { title: "Sunset at Sea", category: "Sunsets", src: "images/img1.jpg", colors: ["#f97316", "#7c3aed"] },
